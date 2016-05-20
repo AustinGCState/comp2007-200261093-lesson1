@@ -10,7 +10,7 @@
     <link href="css/font-awesome.min.css" rel="stylesheet" />
 </head>
 <body>
-
+    
     <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
